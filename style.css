@@ -1,0 +1,10 @@
+#mainpad {
+    width: 800px;
+    height: 800px;
+    background-color: #e2cdcd;
+    display: grid;
+}
+
+.cell{
+    background-color: orange;
+}

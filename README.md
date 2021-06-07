@@ -1,1 +1,1 @@
-# etch_a_sketch
+Creates an etch-a-sketch type program.
